@@ -6,3 +6,7 @@ if(score > 80){
 }else{
     console.log("成績は可です")
 }
+
+for(let i = 1; i < 1000; i=i *2){
+    console.log(i)
+}
