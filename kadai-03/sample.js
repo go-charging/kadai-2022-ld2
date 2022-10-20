@@ -10,3 +10,10 @@ if(score > 80){
 for(let i = 1; i < 1000; i=i *2){
     console.log(i)
 }
+
+for(let i = 0; i < 100; i=i+1){
+    console.log(i)
+    if(i>20){
+        break
+    }
+}
