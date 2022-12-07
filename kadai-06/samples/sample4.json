@@ -1,0 +1,12 @@
+{
+    "string":"文字列",
+    "number":1234,
+    "bool":true,
+    "array":["aaaa","bbbb","cccc",123],
+    "object":{
+        "aaa":"bbb"
+    },
+    "null": null,
+    "func": () => {},
+    "undefined": "undefined"
+}
